@@ -58,3 +58,8 @@ SELECT DISTINCT(country)
 FROM Citizen
 ORDER BY country
 LIMIT 50;
+
+select distinct (country)
+from citizen
+order by country
+limit 20;
