@@ -76,3 +76,6 @@ from citizen;
 
 SELECT id, first_name , last_name , CEILING(salary) as salary
 FROM Citizen;
+
+-- adding new link for more resources about numerical functions:
+-- https://dev.mysql.com/doc/refman/8.3/en/numeric-functions.html
